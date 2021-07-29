@@ -11,6 +11,7 @@
 - Add API call to return all employees from database
 - Set up Swagger
 - Set up Web Security in front of API calls using roles
+- Write a unit test
 
 All Employees Rest API:
 http://dummy.restapiexample.com/api/v1/employees
